@@ -1,0 +1,28 @@
+name: Sacco Test Pages
+favicon: null
+layout_spectrum: 0.9785540038719773
+typography_spectrum: 0.059123697225004435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4364567697048187
+  lightness: 0.21514362143352628
+  saturation: 0.25920074712485075
+  rhythmicContrast: 0.16194206499494612
+purpose: []
